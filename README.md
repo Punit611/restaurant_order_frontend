@@ -83,10 +83,10 @@ This is a mobile application for managing orders in a restaurant. The app allows
 ## Screenshots
 
 ### Order 1 Screen
-![Home Screen](https://drive.google.com/file/d/1gz9jGG7KzwKQ8UdEvRC7fJSdo-SaDJ10/view?usp=sharing)
+![Home Screen](screenshots/2.jpg)
 
 ### Order 2 Screen
-![Add Order Screen](https://drive.google.com/file/d/1UIhJSSW17jRjs97HYNvA-W4LtnzupDmO/view?usp=sharing)
+![Add Order Screen](screenshots/3.jpg)
 
 ### Add items Screen
-![All Orders Screen](https://drive.google.com/file/d/1NmHoC9fwvjNWmE-BFl19Gmw70DPH2olo/view?usp=sharing)
+![All Orders Screen](screenshots/4.jpg)
