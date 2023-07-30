@@ -78,3 +78,15 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 # restaurant_order_frontend
+This is a mobile application for managing orders in a restaurant. The app allows users to place orders, view all orders, mark orders as completed, and delete orders.
+
+## Screenshots
+
+### Order 1 Screen
+![Home Screen](https://drive.google.com/file/d/1gz9jGG7KzwKQ8UdEvRC7fJSdo-SaDJ10/view?usp=sharing)
+
+### Order 2 Screen
+![Add Order Screen](https://drive.google.com/file/d/1UIhJSSW17jRjs97HYNvA-W4LtnzupDmO/view?usp=sharing)
+
+### Add items Screen
+![All Orders Screen](https://drive.google.com/file/d/1NmHoC9fwvjNWmE-BFl19Gmw70DPH2olo/view?usp=sharing)
